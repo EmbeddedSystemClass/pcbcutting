@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=MAINCUTTING Member=D?
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Added Member To Class: ClassName=MAINCUTTING Member=Component D5 Header 2_1

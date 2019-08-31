@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=MAINCUTTING Member=JP1
+Removed Member From Class: ClassName=MAINCUTTING Member=JP2
+Change Component Comment : Designator=JP1 Old Comment=C01 New Comment=JP1
+Change Component Comment : Designator=JP2 Old Comment=C2 New Comment=JP2
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=JP1 NewDesignator=C8
+Change Component Designator: OldDesignator=JP2 NewDesignator=C9
+Added Member To Class: ClassName=MAINCUTTING Member=Component C10 104
+Added Member To Class: ClassName=MAINCUTTING Member=Component C11 103

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=1-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=LED31-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-5
+Added Component: Designator=D?(D-46_6A)
+Added Pin To Net: NetName=+24V Pin=D?-1
+Added Pin To Net: NetName=PGND Pin=D?-2
+Added Pin To Net: NetName=P+24V Pin=D?-4
+Added Pin To Net: NetName=+24V Pin=U5-1
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_1 Pin=C4-2
+Added Pin To Net: NetName=Net1_1 Pin=C5-2
+Added Pin To Net: NetName=Net1_1 Pin=C6-2
+Added Pin To Net: NetName=Net1_1 Pin=D?-3
+Added Pin To Net: NetName=Net1_1 Pin=LED31-2
+Added Pin To Net: NetName=Net1_1 Pin=U5-3
+Added Pin To Net: NetName=Net1_1 Pin=U5-5
+Added Net: Name=Net1_1
+Added Member To Class: ClassName=MAINCUTTING Member=Component D? Bridge2

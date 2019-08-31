@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C8 NewDesignator=C01
+Change Component Designator: OldDesignator=C9 NewDesignator=C02
+Added Member To Class: ClassName=MAINCUTTING Member=Component C01 JP1
+Added Member To Class: ClassName=MAINCUTTING Member=Component C02 JP2

@@ -1,0 +1,207 @@
+Removed Pin From Net: NetName=E0 Pin=IC2-1
+Removed Pin From Net: NetName=E1 Pin=IC2-2
+Removed Pin From Net: NetName=A0 Pin=IC2-3
+Removed Pin From Net: NetName=A1 Pin=IC2-4
+Removed Pin From Net: NetName=A2 Pin=IC2-5
+Removed Pin From Net: NetName=A3 Pin=IC2-6
+Removed Pin From Net: NetName=A4 Pin=IC2-7
+Removed Pin From Net: NetName=A5 Pin=IC2-8
+Removed Pin From Net: NetName=GND Pin=IC2-9
+Removed Pin From Net: NetName=COMEA Pin=IC2-10
+Removed Pin From Net: NetName=OUT7_A5 Pin=IC2-12
+Removed Pin From Net: NetName=OUT6_A4 Pin=IC2-13
+Removed Pin From Net: NetName=OUT5_A2 Pin=IC2-14
+Removed Pin From Net: NetName=OUT4_A1 Pin=IC2-15
+Removed Pin From Net: NetName=OUT3_A0 Pin=IC2-16
+Removed Pin From Net: NetName=OUT2_E1 Pin=IC2-17
+Removed Pin From Net: NetName=OUT1_E0 Pin=IC2-18
+Removed Pin From Net: NetName=OUT1_E0 Pin=JP2-1
+Removed Pin From Net: NetName=OUT2_E1 Pin=JP2-2
+Removed Pin From Net: NetName=C2 Pin=JP4-1
+Removed Pin From Net: NetName=C3 Pin=JP4-2
+Removed Pin From Net: NetName=OUT3_A0 Pin=JP5-1
+Removed Pin From Net: NetName=OUT4_A1 Pin=JP5-2
+Removed Pin From Net: NetName=C4 Pin=JP7-1
+Removed Pin From Net: NetName=C5 Pin=JP7-2
+Removed Pin From Net: NetName=OUT5_A2 Pin=JP8-1
+Removed Pin From Net: NetName=OUT6_A4 Pin=JP8-2
+Removed Pin From Net: NetName=C6 Pin=JP10-1
+Removed Pin From Net: NetName=C7 Pin=JP10-2
+Removed Pin From Net: NetName=OUT7_A5 Pin=JP11-1
+Removed Pin From Net: NetName=COMEA Pin=JP13-1
+Removed Pin From Net: NetName=NetLED3_2 Pin=LED3-2
+Removed Pin From Net: NetName=NetLED4_2 Pin=LED4-2
+Removed Pin From Net: NetName=NetLED5_2 Pin=LED5-2
+Removed Pin From Net: NetName=NetLED6_2 Pin=LED6-2
+Removed Pin From Net: NetName=NetLED7_2 Pin=LED7-2
+Removed Pin From Net: NetName=NetLED8_2 Pin=LED8-2
+Removed Pin From Net: NetName=NetLED9_2 Pin=LED9-2
+Removed Pin From Net: NetName=NetLED10_2 Pin=LED10-2
+Removed Pin From Net: NetName=NetLED4_2 Pin=R4-2
+Removed Pin From Net: NetName=NetLED5_2 Pin=R5-2
+Removed Pin From Net: NetName=NetLED6_2 Pin=R6-2
+Removed Pin From Net: NetName=NetLED7_2 Pin=R7-2
+Removed Pin From Net: NetName=NetLED8_2 Pin=R8-2
+Removed Pin From Net: NetName=NetLED9_2 Pin=R9-2
+Removed Pin From Net: NetName=NetLED10_2 Pin=R10-2
+Removed Pin From Net: NetName=NetLED3_1 Pin=U3-K
+Removed Pin From Net: NetName=NetLED4_1 Pin=U4-K
+Removed Pin From Net: NetName=NetLED5_1 Pin=U5-K
+Removed Pin From Net: NetName=NetLED6_1 Pin=U6-K
+Removed Pin From Net: NetName=NetLED7_1 Pin=U7-K
+Removed Pin From Net: NetName=NetLED8_1 Pin=U8-K
+Removed Pin From Net: NetName=NetLED9_1 Pin=U9-K
+Removed Pin From Net: NetName=NetLED10_1 Pin=U10-K
+Removed Member From Class: ClassName=MAINCUTTING Member=IC2
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP16
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP12 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP13 NewDesignator=JP8
+Change Component Designator: OldDesignator=LED11 NewDesignator=LED19
+Change Component Designator: OldDesignator=LED12 NewDesignator=LED20
+Change Component Designator: OldDesignator=LED13 NewDesignator=LED21
+Change Component Designator: OldDesignator=LED14 NewDesignator=LED22
+Change Component Designator: OldDesignator=LED15 NewDesignator=LED23
+Change Component Designator: OldDesignator=LED16 NewDesignator=LED24
+Change Component Designator: OldDesignator=LED17 NewDesignator=LED25
+Added Component: Designator=JP9(CON2)
+Added Component: Designator=JP12(CON2)
+Added Component: Designator=JP13(CON2)
+Added Component: Designator=JP14(CON2)
+Added Component: Designator=JP15(CON3)
+Added Component: Designator=JP17(CON2)
+Added Component: Designator=JP18(CON2)
+Added Component: Designator=JP19(CON2)
+Added Component: Designator=LED11(SM-LED-1206-Blue)
+Added Component: Designator=LED12(SM-LED-1206-Blue)
+Added Component: Designator=LED13(SM-LED-1206-Blue)
+Added Component: Designator=LED14(SM-LED-1206-Blue)
+Added Component: Designator=LED15(SM-LED-1206-Blue)
+Added Component: Designator=LED16(SM-LED-1206-Blue)
+Added Component: Designator=LED17(SM-LED-1206-Blue)
+Added Component: Designator=LED18(SM-LED-1206-Blue)
+Added Component: Designator=RN1(RN8)
+Added Pin To Net: NetName=IN1_D0 Pin=JP2-1
+Added Pin To Net: NetName=IN2_D1 Pin=JP2-2
+Added Pin To Net: NetName=IN3_D2 Pin=JP4-1
+Added Pin To Net: NetName=IN4_D3 Pin=JP4-2
+Added Pin To Net: NetName=IN5_D4 Pin=JP7-1
+Added Pin To Net: NetName=IN6_D5 Pin=JP7-2
+Added Pin To Net: NetName=IN7_D6 Pin=JP9-1
+Added Pin To Net: NetName=IN8_D7 Pin=JP9-2
+Added Pin To Net: NetName=IN1_E0 Pin=JP10-1
+Added Pin To Net: NetName=IN2_E1 Pin=JP10-2
+Added Pin To Net: NetName=IN3_E2 Pin=JP11-1
+Added Pin To Net: NetName=IN4_A0 Pin=JP11-2
+Added Pin To Net: NetName=IN5_A1 Pin=JP12-1
+Added Pin To Net: NetName=IN6_A2 Pin=JP12-2
+Added Pin To Net: NetName=IN7_A3 Pin=JP13-1
+Added Pin To Net: NetName=IN8_A4 Pin=JP13-2
+Added Pin To Net: NetName=IN8_A5 Pin=JP14-1
+Added Pin To Net: NetName=+24V Pin=JP15-1
+Added Pin To Net: NetName=GND Pin=JP15-3
+Added Pin To Net: NetName=C2 Pin=JP4-1
+Added Pin To Net: NetName=C3 Pin=JP4-2
+Added Pin To Net: NetName=C4 Pin=JP7-1
+Added Pin To Net: NetName=C5 Pin=JP7-2
+Added Pin To Net: NetName=C6 Pin=JP10-1
+Added Pin To Net: NetName=C7 Pin=JP10-2
+Added Pin To Net: NetName=OUT1_B0 Pin=LED3-2
+Added Pin To Net: NetName=OUT2_B1 Pin=LED4-2
+Added Pin To Net: NetName=OUT3_B2 Pin=LED5-2
+Added Pin To Net: NetName=OUT4_B3 Pin=LED6-2
+Added Pin To Net: NetName=OUT5_B4 Pin=LED7-2
+Added Pin To Net: NetName=OUT6_B5 Pin=LED8-2
+Added Pin To Net: NetName=OUT7_B6 Pin=LED9-2
+Added Pin To Net: NetName=OUT8_B7 Pin=LED10-2
+Added Pin To Net: NetName=COMEA Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED5-1
+Added Pin To Net: NetName=NetLED7_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED6-1
+Added Pin To Net: NetName=NetLED9_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED7-1
+Added Pin To Net: NetName=OUT1_E0 Pin=LED7-2
+Added Pin To Net: NetName=OUT2_E1 Pin=LED8-1
+Added Pin To Net: NetName=OUT3_A0 Pin=LED8-2
+Added Pin To Net: NetName=OUT4_A1 Pin=LED9-1
+Added Pin To Net: NetName=OUT5_A2 Pin=LED9-2
+Added Pin To Net: NetName=OUT6_A4 Pin=LED10-1
+Added Pin To Net: NetName=OUT7_A5 Pin=LED10-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R4-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R5-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R6-2
+Added Pin To Net: NetName=OUT1_E0 Pin=R7-2
+Added Pin To Net: NetName=OUT3_A0 Pin=R8-2
+Added Pin To Net: NetName=OUT5_A2 Pin=R9-2
+Added Pin To Net: NetName=OUT7_A5 Pin=R10-2
+Added Pin To Net: NetName=COMB Pin=RN1-1
+Added Pin To Net: NetName=NetLED3_1 Pin=RN1-2
+Added Pin To Net: NetName=NetLED4_1 Pin=RN1-3
+Added Pin To Net: NetName=NetLED5_1 Pin=RN1-4
+Added Pin To Net: NetName=NetLED6_1 Pin=RN1-5
+Added Pin To Net: NetName=NetLED7_1 Pin=RN1-6
+Added Pin To Net: NetName=NetLED8_1 Pin=RN1-7
+Added Pin To Net: NetName=NetLED9_1 Pin=RN1-8
+Added Pin To Net: NetName=NetLED10_1 Pin=RN1-9
+Added Pin To Net: NetName=COMEA Pin=U3-K
+Added Pin To Net: NetName=NetLED4_2 Pin=U4-K
+Added Pin To Net: NetName=NetLED6_2 Pin=U5-K
+Added Pin To Net: NetName=NetLED8_2 Pin=U6-K
+Added Pin To Net: NetName=NetLED10_2 Pin=U7-K
+Added Pin To Net: NetName=OUT2_E1 Pin=U8-K
+Added Pin To Net: NetName=OUT4_A1 Pin=U9-K
+Added Pin To Net: NetName=OUT6_A4 Pin=U10-K
+Change Net Name : Old Net Name=COMEA New Net Name=NetLED11_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED11_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED12_1
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED12_2
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetLED13_1
+Change Net Name : Old Net Name=NetLED7_2 New Net Name=NetLED13_2
+Change Net Name : Old Net Name=NetLED8_2 New Net Name=NetLED14_1
+Change Net Name : Old Net Name=NetLED9_2 New Net Name=NetLED14_2
+Change Net Name : Old Net Name=NetLED10_2 New Net Name=NetLED15_1
+Change Net Name : Old Net Name=NetLED11_1 New Net Name=NetLED19_1
+Change Net Name : Old Net Name=NetLED11_2 New Net Name=NetLED19_2
+Change Net Name : Old Net Name=NetLED12_1 New Net Name=NetLED20_1
+Change Net Name : Old Net Name=NetLED12_2 New Net Name=NetLED20_2
+Change Net Name : Old Net Name=NetLED13_1 New Net Name=NetLED21_1
+Change Net Name : Old Net Name=NetLED13_2 New Net Name=NetLED21_2
+Change Net Name : Old Net Name=NetLED14_1 New Net Name=NetLED22_1
+Change Net Name : Old Net Name=NetLED14_2 New Net Name=NetLED22_2
+Change Net Name : Old Net Name=NetLED15_1 New Net Name=NetLED23_1
+Change Net Name : Old Net Name=NetLED15_2 New Net Name=NetLED23_2
+Change Net Name : Old Net Name=NetLED16_1 New Net Name=NetLED24_1
+Change Net Name : Old Net Name=NetLED16_2 New Net Name=NetLED24_2
+Change Net Name : Old Net Name=NetLED17_1 New Net Name=NetLED25_1
+Change Net Name : Old Net Name=NetLED17_2 New Net Name=NetLED25_2
+Change Net Name : Old Net Name=OUT1_E0 New Net Name=NetLED15_2
+Change Net Name : Old Net Name=OUT2_E1 New Net Name=NetLED16_1
+Change Net Name : Old Net Name=OUT3_A0 New Net Name=NetLED16_2
+Change Net Name : Old Net Name=OUT4_A1 New Net Name=NetLED17_1
+Change Net Name : Old Net Name=OUT5_A2 New Net Name=NetLED17_2
+Change Net Name : Old Net Name=OUT6_A4 New Net Name=NetLED18_1
+Change Net Name : Old Net Name=OUT7_A5 New Net Name=NetLED18_2
+Added Member To Class: ClassName=MAINCUTTING Member=Component JP14 JP2
+Added Member To Class: ClassName=MAINCUTTING Member=Component JP15 JP3
+Added Member To Class: ClassName=MAINCUTTING Member=Component JP16 JP2
+Added Member To Class: ClassName=MAINCUTTING Member=Component JP17 JP2
+Added Member To Class: ClassName=MAINCUTTING Member=Component JP18 JP2
+Added Member To Class: ClassName=MAINCUTTING Member=Component JP19 JP2
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED18 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED19 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED20 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED21 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED22 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED23 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED24 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component LED25 LED SMD
+Added Member To Class: ClassName=MAINCUTTING Member=Component RN1 4.7K
